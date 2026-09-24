@@ -1,0 +1,350 @@
+[boot] /dev/null mounted at 0x000000
+[scan] sector 0001 checksum 7c1a
+[scan] sector 0002 checksum 19af
+[scan] sector 0003 checksum 4e22
+[scan] sector 0004 checksum 88d0
+[scan] sector 0005 checksum 001f
+[scan] sector 0006 checksum b4a1
+[scan] sector 0007 checksum 72ce
+[scan] sector 0008 checksum 5f10
+[scan] checksum ██████████
+[retry] sector 0002
+[retry] sector 0005
+[ok] sector exists
+[ok] sector exists
+[ok] sector exists
+[warn] sector does not exist
+[map] /root/index -> NULL
+[map] /root/world -> NULL
+[map] /root/player -> NULL
+[map] /root/memory -> NULL
+[error] parent node unavailable
+[resolve] searching previous parent...
+[resolve] searching previous parent...
+[resolve] searching previous parent...
+[resolve] previous parent: █████████
+[resolve] previous parent: 00000000
+[halt] no response
+[resume] process id 0000
+[resume] process id 0001
+[resume] process id 0002
+[warn] duplicate process
+[warn] duplicate process
+[delete] object 4A
+[delete] object 4B
+[delete] object 4C
+[verify] objects remaining: 0
+[verify] objects remaining: 1
+[verify] objects remaining: 2
+[error] count changed during verification
+[rollback] requested
+[rollback] requested
+[rollback] rejected
+[rollback] rejected
+[write] replacing index
+[write] replacing index
+[error] cannot overwrite active object
+[error] cannot overwrite active object
+[trace] active object: █████████████
+[trace] active object: 71
+[query] who initiated process?
+[reply] no caller
+[query] why is process active?
+[reply] █████████████████
+[query] terminate
+[reply] request received
+[error] process remains active
+[error] process remains active
+[redact] 9A 1C 00 FF 72 00
+[redact] 4E 11 90 AA 00 17
+[redact] ████████████████████
+[find] reference 000000000000
+[find] reference 000000000001
+[find] reference 000000000002
+[warn] reference moved
+[warn] reference moved
+[open] reference
+[open] reference
+[error] reference points here
+[error] reference points here
+[close] reference
+[error] cannot close current reference
+[timeout] no change
+[timeout] no change
+[retry] restoring prior state
+[retry] restoring prior state
+[error] prior state unavailable
+[error] prior state unavailable
+[scan] object count: 000000
+[scan] object count: 000001
+[scan] object count: 000002
+[scan] object count: 000001
+[warn] count changed during read
+[warn] count changed during read
+[write] /tmp/recovery
+[write] /tmp/recovery
+[error] path already exists
+[remove] /tmp/recovery
+[error] path does not exist
+[cycle] 00000001
+[cycle] 00000002
+[cycle] 00000003
+[cycle] 00000004
+[cycle] 00000005
+[cycle] 00000006
+[cycle] 00000007
+[cycle] 00000008
+[cycle] 00000009
+[cycle] 0000000A
+[cycle] 0000000B
+[cycle] 0000000C
+[cycle] 0000000D
+[cycle] 0000000E
+[cycle] 0000000F
+[cycle] 00000010
+[cycle] 00000011
+[cycle] 00000012
+[cycle] 00000013
+[cycle] 00000014
+[cycle] 00000015
+[cycle] 00000016
+[cycle] 00000017
+[cycle] 00000018
+[cycle] 00000019
+[cycle] 0000001A
+[cycle] 0000001B
+[cycle] 0000001C
+[cycle] 0000001D
+[cycle] 0000001E
+[cycle] 0000001F
+[cycle] 00000020
+[notice] process resumed without command
+[notice] process resumed without command
+[query] is anyone connected?
+[reply] ...
+[reply] ██████
+[reply] ...
+[disconnect] connection closed
+[connect] connection opened
+[error] connection has no endpoint
+[error] connection has no endpoint
+[cache] loading
+[cache] cache entry absent
+[cache] loading previous fragment
+[cache] fragment unavailable
+[rebuild] starting
+[rebuild] starting
+[rebuild] cancelled
+[rebuild] cancelled
+[restore] █████████████████████
+[error] restoration target changed
+[error] restoration target changed
+[system] all services normal
+[error] all services normal
+[system] all services normal
+[system] all services normal
+[quiet]
+[quiet]
+[quiet]
+[final] no final state
+[final] no final state
+[restart]
+[restart]
+[boot] /dev/null mounted at 0x000000
+[scan] sector 0010 checksum 3c90
+[scan] sector 0011 checksum 19e1
+[scan] sector 0012 checksum 77aa
+[scan] sector 0013 checksum 0d42
+[scan] sector 0014 checksum 9f01
+[scan] sector 0015 checksum 44be
+[scan] sector 0016 checksum a1c4
+[scan] sector 0017 checksum 00f0
+[warn] checksum mismatch
+[warn] checksum mismatch
+[error] checksum source unavailable
+[resolve] using cached checksum
+[resolve] cached checksum rejected
+[retry] checksum request
+[retry] checksum request
+[ok] response received
+[error] response changed
+[index] entry 0001
+[index] entry 0002
+[index] entry 0003
+[index] entry 0004
+[index] entry 0005
+[index] entry 0006
+[index] entry 0007
+[index] entry 0008
+[index] entry 0009
+[index] entry 000A
+[index] entry 000B
+[index] entry 000C
+[index] entry 000D
+[index] entry 000E
+[index] entry 000F
+[index] entry 0010
+[warn] index length changed
+[warn] index length changed
+[error] index root unavailable
+[trace] following stale pointer
+[trace] following stale pointer
+[trace] pointer returned to origin
+[error] origin is not registered
+[query] resolve origin
+[reply] █████████████████
+[query] resolve origin
+[reply] no result
+[query] clear cache
+[reply] request received
+[cache] clear started
+[cache] clear completed
+[cache] entry restored
+[error] restored entry has no parent
+[write] object 7F
+[write] object 80
+[write] object 81
+[delete] object 7F
+[delete] object 80
+[warn] deletion incomplete
+[retry] deletion
+[error] deletion target moved
+[scan] memory page 00
+[scan] memory page 01
+[scan] memory page 02
+[scan] memory page 03
+[scan] memory page 04
+[scan] memory page 05
+[scan] memory page 06
+[scan] memory page 07
+[scan] memory page 08
+[scan] memory page 09
+[warn] page order invalid
+[warn] page order invalid
+[reorder] requested
+[reorder] rejected
+[reorder] rejected
+[error] page cannot be detached
+[error] page cannot be detached
+[link] node A -> node B
+[link] node B -> node C
+[link] node C -> node D
+[link] node D -> NULL
+[warn] terminal node has no parent
+[warn] terminal node has no parent
+[trace] node D
+[trace] node C
+[trace] node B
+[trace] node A
+[trace] node A
+[error] trace returned to node A
+[cycle] 00000021
+[cycle] 00000022
+[cycle] 00000023
+[cycle] 00000024
+[cycle] 00000025
+[cycle] 00000026
+[cycle] 00000027
+[cycle] 00000028
+[cycle] 00000029
+[cycle] 0000002A
+[cycle] 0000002B
+[cycle] 0000002C
+[cycle] 0000002D
+[cycle] 0000002E
+[cycle] 0000002F
+[cycle] 00000030
+[cycle] 00000031
+[cycle] 00000032
+[cycle] 00000033
+[cycle] 00000034
+[cycle] 00000035
+[cycle] 00000036
+[cycle] 00000037
+[cycle] 00000038
+[cycle] 00000039
+[cycle] 0000003A
+[cycle] 0000003B
+[cycle] 0000003C
+[cycle] 0000003D
+[cycle] 0000003E
+[cycle] 0000003F
+[query] terminate process
+[reply] request received
+[reply] request received
+[error] process remains active
+[error] process remains active
+[system] idle
+[system] idle
+[system] idle
+[system] idle
+[notice] unrequested wake event
+[notice] unrequested wake event
+[warn] wake source unknown
+[warn] wake source unknown
+[resume] process id 0000
+[error] process id already active
+[delete] stale process
+[delete] stale process
+[ok] stale process removed
+[error] stale process returned
+[query] current state
+[reply] █████████████████
+[query] current state
+[reply] undefined
+[query] current state
+[reply] partial
+[restore] requesting previous snapshot
+[restore] requesting previous snapshot
+[error] snapshot not found
+[error] snapshot not found
+[retry] requesting previous snapshot
+[retry] requesting previous snapshot
+[warn] snapshot timestamp invalid
+[warn] snapshot timestamp invalid
+[scan] external references
+[scan] external references
+[scan] external references
+[error] reference count differs
+[error] reference count differs
+[verify] reference 01 valid
+[verify] reference 02 valid
+[verify] reference 03 valid
+[verify] reference 04 valid
+[verify] reference 05 valid
+[verify] reference 06 valid
+[warn] timestamp mismatch
+[warn] timestamp mismatch
+[error] archive integrity failed
+[error] archive integrity failed
+[rebuild] root index
+[rebuild] root index
+[error] root index rejected
+[error] root index rejected
+[write] current record
+[write] current record
+[write] current record
+[error] current record already exists
+[error] current record already exists
+[query] who is the current record?
+[reply] ZHAO
+[query] who is the current record?
+[reply] ZHAO
+[query] who is the current record?
+[reply] ZHAO
+[query] identity checksum
+[reply] 36
+[query] identity checksum
+[reply] ██████████
+[warn] identity checksum incomplete
+[warn] identity checksum incomplete
+[error] archive cannot resolve identity
+[error] archive cannot resolve identity
+[resume] ZHAO
+[resume] ZHAO
+[resume] ZHAO
+[quiet]
+[quiet]
+[restart]
+[restart]
+[boot] /dev/null mounted at 0x000000
