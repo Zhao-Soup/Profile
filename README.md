@@ -329,11 +329,11 @@ The links are the only pieces of information that consistently survive the ficti
 ┌────────────────────────────────────────────┐
 │                                            │
 │  ARCHIVE ................. CORRUPTED       │
-│  ROOT .................... MISSING        │
-│  WORLD ................... UNDEFINED      │
-│  MEMORY .................. FRAGMENTED     │
-│  IDENTITY ................ RECOVERED      │
-│  CONNECTIONS ............. ACTIVE         │
+│  ROOT .................... MISSING         │
+│  WORLD ................... UNDEFINED       │
+│  MEMORY .................. FRAGMENTED      │
+│  IDENTITY ................ RECOVERED       │
+│  CONNECTIONS ............. ACTIVE          │
 │                                            │
 └────────────────────────────────────────────┘
 ```
